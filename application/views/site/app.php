@@ -12,7 +12,7 @@
         <link rel='shortcut icon' type='image/x-icon' href='<?php echo base_url()?>components/custom/images/favicon.ico' />
 
         <title>
-            Codigniter e Doctrine
+            Codeigniter e Doctrine
         </title>
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
