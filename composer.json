@@ -1,6 +1,6 @@
 {
-  "description" : "Eduardo Vargas",
-  "name" : "eduardovargas.com.br",
+  "description" : "Codeigniter 3.0 e Doctrine 2.4",
+  "name" : "Codeigtrine",
   "config": {
     "vendor-dir": "application/libraries"
   },  
